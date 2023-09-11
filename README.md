@@ -7,7 +7,7 @@ An application that randomly generates a password within 8 to 128 characters lon
 # Deployed 
 
 https://tjansen34.github.io/week3challenge/
-
+<img width="1052" alt="image" src="https://github.com/tjansen34/week3challenge/assets/141687711/5705854d-aee8-4ee1-b30c-0d0dbb2b6d6f">
 
 # Author
 If you have questions you can reach me at https://github.com/tjansen34
